@@ -1,5 +1,5 @@
 name: tilecode
-description: A new Flutter package project.
+description: tilecode is hex/binary presentation of map tile id.
 version: 0.0.1
 homepage: https://github.com/mattak/tilecode_dart
 
